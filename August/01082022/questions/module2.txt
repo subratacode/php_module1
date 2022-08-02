@@ -1,0 +1,13 @@
+create a student registration form using php, html, css
+
+the form should have name, phone number, email address, date of birth, residential address, zipcode, city, state, country, image fields
+
+all data should be inserted into the database
+
+in a different page the students' information should be displayed
+
+each student information will have an edit and delete option
+
+upon clicking on the edit button the specific students' information can be edited and updated into the database
+
+upon clicking on the delete button the specific students' information will be deleted from list as well as database

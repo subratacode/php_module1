@@ -1,0 +1,5 @@
+write a program to take a user input and check whether the input is a prime number or not. (if you have to use a database for this program, please do, but using a database is not necessary)
+
+write a program to take a user input and print a Fibonacci series following that number. (if you have to use a database for this program, please do, but using a database is not necessary)
+
+write a program to take a user input and print the reverse of that string. (if you have to use a database for this program, please do, but using a database is not necessary)
